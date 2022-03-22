@@ -2,6 +2,7 @@
 
 
 
+
 .main{
     background-image: url(images/high-speed-world-map-abstract-technology-background-concept-speed-movement-pattern-motion-blur-over-dark-blue-background-high-193132388.jpg);
     background-size: cover;
@@ -114,7 +115,7 @@ ul .list {
     display: flex;
     transform: translate(0%,50%);
     background: black;
-    width: 25.7cm;
+    width: 25.5cm;
     margin: auto;
 }
 .list2 li{
@@ -255,6 +256,9 @@ ul .list {
     text-align: center;
     color: black;
 }
+
+
+
 
 
 
